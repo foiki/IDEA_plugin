@@ -1,0 +1,17 @@
+# General
+*.DS_Store
+*.AppleDouble
+*.LSOverride
+
+*.xcodeproj
+workspace.xml
+uiDesigner.xml
+*.kotlin_module
+*.class
+*.bin
+*.properties
+*.lock
+build/
+/settings.gradle
+*.MF
+out/
